@@ -51,6 +51,7 @@ I've been using Visual Studio Code since [before](https://github.com/DonJayamann
     "docker.attachShellCommand.linuxContainer": "/bin/bash"
 }
 ```
+I usually have project specific configurations too.  These are usually things like linting, the python path that pipenv created, and sometimes black arguments.  My configuration file used to be a lot longer, but the python extnesion has made more settings I had specified deafaults, a feature I like.  It works out of the box, these things just make it better.
 
 # The Python Langauge Server
 The [Python Language Server](https://github.com/Microsoft/python-language-server) is a new alternative to packages like [Jedi](https://github.com/davidhalter/jedi). So far I am having a positive experience with this.  I just recently switched from Jedi to the languge server.  To do that you have to disable Jedi by setting `python.jedienabled` to false.  The language server will be downloaded and run.  You can enable or disable this per a project.  So far it is working great; I've seen some speed improvments in autocomplete, and better detection for inherited properties and methods when working with Django models.
