@@ -93,4 +93,5 @@ There is fantasic git support built into the editor.  Besides a gitignore plugin
 # Key Bindings for pretty much any editor ever
 If you don't want to move away from your editor because you don't want to learn a bunch of new keyboard shortcuts and bindings, fear not; there are key binding extensions for pretty much every editor out there.  Want to use vim?  [Go for it](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim).  How about spacemacs? [Yup](https://github.com/VSpaceCode/VSpaceCode).  Coming from Sublime Text?  Well you'll probably want [this](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings).  Switching has never been easier!
 
+# In Conclusion
 VS Code with the Python exnteion has been my daily driver for over two years.  It's only gotten better with time.  If you were thinking of making the switch, there has never been a better time!  If you already use it, I hope you have enjoyed my setup.  
