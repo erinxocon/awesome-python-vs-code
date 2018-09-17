@@ -18,7 +18,7 @@ I've been using Visual Studio Code since [before](https://github.com/DonJayamann
 * [Smooth Type](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype)
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 * [VS Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
-* [vsvode-python-docstring](https://marketplace.visualstudio.com/items?itemName=azaugg.vscode-python-docstring)
+* [vscode-python-docstring](https://marketplace.visualstudio.com/items?itemName=azaugg.vscode-python-docstring)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 # My configuration
@@ -51,7 +51,7 @@ I've been using Visual Studio Code since [before](https://github.com/DonJayamann
     "docker.attachShellCommand.linuxContainer": "/bin/bash"
 }
 ```
-I usually have project specific configurations too.  These are usually things like linting, the python path that pipenv created, and sometimes black arguments.  My configuration file used to be a lot longer, but the python extnesion has made more settings I had specified deafaults, a feature I like.  It works out of the box, these things just make it better.
+I usually have project specific configurations too.  These are usually things like linting, the python path that pipenv created, and sometimes black arguments.  My configuration file used to be a lot longer, but the python extension has made more settings I had specified deafaults, a feature I like.  It works out of the box, these things just make it better.
 
 # The Python Langauge Server
 The [Python Language Server](https://github.com/Microsoft/python-language-server) is a new alternative to packages like [Jedi](https://github.com/davidhalter/jedi). So far I am having a positive experience with this.  I just recently switched from Jedi to the languge server.  To do that you have to disable Jedi by setting `python.jedienabled` to false.  The language server will be downloaded and run.  You can enable or disable this per a project.  I've seen some speed improvments in autocomplete, and better detection for inherited properties and methods when working with Django models.
@@ -95,4 +95,4 @@ There is fantasic git support built into the editor.  Besides a gitignore plugin
 If you don't want to move away from your editor because you don't want to learn a bunch of new keyboard shortcuts and bindings, fear not; there are key binding extensions for pretty much every editor out there.  Want to use vim?  [Go for it](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim).  How about spacemacs? [Yup](https://github.com/VSpaceCode/VSpaceCode).  Coming from Sublime Text?  Well you'll probably want [this](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings).  Switching has never been easier!
 
 # In Conclusion
-VS Code with the Python exnteion has been my daily driver for over two years.  It's only gotten better with time.  If you were thinking of making the switch, there has never been a better time!  If you already use it, I hope you have enjoyed my setup.  
+VS Code with the Python extension has been my daily driver for over two years.  It's only gotten better with time.  If you were thinking of making the switch, there has never been a better time!  If you already use it, I hope you have enjoyed my setup.  
