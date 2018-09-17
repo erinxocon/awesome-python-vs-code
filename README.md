@@ -1,5 +1,5 @@
 # Awesome Python VS Code
-I've been using Visual Studio Code since [before](https://github.com/DonJayamanne/pythonVSCode) the python extension was supported by Microsoft.  Now a Microsoft supported project, the [Python Extension for Visual Studio Code](https://github.com/Microsoft/vscode-python) has become even more featureful featuring their own [remote debugging](https://github.com/Microsoft/ptvsd) tool and their own auto-completion and analysis engine through the new [Language Server Protocol](https://microsoft.github.io/language-server-protocol/).
+I've been using Visual Studio Code since [before](https://github.com/DonJayamanne/pythonVSCode) the python extension was supported by Microsoft.  Now a Microsoft project, the [Python Extension for Visual Studio Code](https://github.com/Microsoft/vscode-python) has become even more featureful featuring their own [remote debugging](https://github.com/Microsoft/ptvsd) tool and their own auto-completion and analysis engine through the new [Language Server Protocol](https://microsoft.github.io/language-server-protocol/).
 
 # My Extensions 
 * [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
