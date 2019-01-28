@@ -5,7 +5,7 @@ I've been using Visual Studio Code since [before](https://github.com/DonJayamann
 * [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
 * [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator)
 * [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 * [Enki](https://marketplace.visualstudio.com/items?itemName=enkia.enki-vscode-theme) - Theme
 * [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
